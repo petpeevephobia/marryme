@@ -34,7 +34,7 @@ MarryMe will replace these placeholders with data extracted from client notes.
 
 ## Running MarryMe
 
-1. Start your Telegram bot.
+1. Start your Telegram bot via "boy.py" OR host the code on Fly.io.
 2. Send raw client notes to your Telegram bot. The notes must include the client business name and client email.
 3. The bot will generate a proposal, duplicate your Google Slides template, fill in details, and reply with the proposal link.
 
@@ -42,9 +42,7 @@ MarryMe will replace these placeholders with data extracted from client notes.
 
 ## Notes
 
-- Protect your `.env.local` with sensitive Google API credentials.
-- Keep your `.env` user-editable for easy personalization.
-- Never commit sensitive credentials to public repos.
+- MarryMe was never intended to be scalable. It was made specially for my AI-powered web agency, Solvia.
 
 ---
 
