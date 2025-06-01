@@ -1,5 +1,5 @@
 # Use official Python image with the version you want
-FROM python:3.8-slim
+FROM python:3.9-slim
 
 # Set working directory
 WORKDIR /app
