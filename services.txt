@@ -1,0 +1,76 @@
+Welcome to The Nadra Agency's official breakdown of our services, pricing model, and scope of work. Everything here is modular and can be tailored to your business goals. Below, you’ll find both one-time web design packages and ongoing support retainers.
+
+---
+
+---
+
+## 💻 Website Design Packages (One-Time Payment)
+
+All packages include mobile responsiveness, user-centric layouts, and high-converting structures tailored to your business goals.
+
+Package Name: Starter
+Price (SGD): S$600 – S$1,200
+No. of pages: 1
+What The Client Will Get:
+  - Web domain setup
+  - Google Analytics install
+  - Google Search Console install
+  - Basic SEO
+Extras: —
+Timeline: 7 days or 14 days
+
+Package Name: Standard
+Price (SGD): S$1,200 – S$3,200
+No. of pages: 3 to 6
+What The Client Will Get:
+  - Everything in Starter
+  - E-commerce features (if needed)
+Extras:
+  - 40% off ODD (first month)
+  - 40% off SEO (2-mo min)
+Timeline: 30 days
+
+Package Name: Growth
+Price (SGD): S$3,200 – S$4,000+
+No. of pages: 7+
+What The Client Will Get:
+  - Everything in Standard
+Extras:
+  - Free hosting for the first month
+Timeline: 30 days or 60 days
+
+---
+
+## 🔁 Monthly Retainers (Recurring Revenue)
+
+For founders who want their websites to grow and adapt with their business.
+
+1. AI Web Manager
+Price:
+  - S$90/month (first 2 months for early users)
+  - S$129/month after 2 months
+Scope:
+  - Monthly SEO audits and automatic updates
+  - Visual and CRO insights [COMING SOON]
+  - CMS management (blogs/events) [COMING SOON]
+  - Dashboard access to monitor changes and performance [COMING SOON]
+
+---
+
+2. On-Demand Design (ODD)
+Price: S$39/month
+Scope:
+  - Unlimited web design requests (within current website)
+  - Typically fulfilled within 48 hours
+  - Cancel anytime
+  - Ideal for startups who frequently need changes but don’t want a full-time designer
+
+---
+
+3. SEO Retainer
+Price: S$220/month
+Scope:
+  - Advanced keyword optimization
+  - Monthly SEO performance reporting
+  - Competitor and backlink analysis
+  - Ongoing content and metadata updates
